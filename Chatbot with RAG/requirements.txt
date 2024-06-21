@@ -1,0 +1,6 @@
+sentence_transformers
+langchain_community
+langchain-chroma
+langchain-google-genai
+fastapi
+uvicorn
