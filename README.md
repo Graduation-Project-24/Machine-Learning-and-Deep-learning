@@ -38,10 +38,6 @@ Using the YOLOv8 model for object detection to validate and pick items efficient
     ```bash
     cd Machine-Learning-and-Deep-learning
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
